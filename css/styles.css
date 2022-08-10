@@ -1,0 +1,57 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  font-size: 85px;
+  font-style: initial;
+  color: crimson;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 25px;
+  font-style: initial;
+  color: crimson;
+
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  object-fit: fill;
+}
+
+.album1 {
+  font-family: 'Courier New';
+  margin: 15px;
+  border: 15px blue;
+  padding: 4px;
+  background-color: lightblue;
+  margin-bottom: 225px;
+  box-sizing: border-box;
+}
+
+.album2{
+  font-family: 'Times New Roman';
+  margin: 15px;
+  border: 15px green;
+  padding: 4px;
+  background-color: lightgreen;
+  margin-bottom: 225px;
+  box-sizing: border-box;
+}
+
+.album3{
+  font-family: 'Trebuchet MS';
+  margin: 15px;
+  border: 15px red;
+  padding: 4px;
+  background-color: pink;
+  margin-bottom: 225px;
+  box-sizing: border-box;
+}
+
+.imageSide {
+  float: right;
+}
