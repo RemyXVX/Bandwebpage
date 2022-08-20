@@ -1,6 +1,6 @@
 # The Killer Whales
 
-#### By Remy Flores
+#### By Emil Anton and Remy Flores
 
 #### The Killer Whale
 
@@ -11,7 +11,7 @@
 * GitBash
 
 ## Description
-_Created a webpage to display that we could add/apply borders in CSS_
+_Created a webpage to display that we could add/apply borders, boxing and floats in CSS_
 
 ## Setup/Installation Requirements
 * _Copy/clone repo on your device_
